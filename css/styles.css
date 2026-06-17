@@ -234,7 +234,7 @@ textarea {
   border-top: 1px solid #e2e8f0;
 }
 
-/* styles for the dark mode */
+/* creating style for the dark mode */
 body.dark-mode {
   background-color: #0f172a;
   color: #f8fafc;
